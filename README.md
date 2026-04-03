@@ -61,6 +61,14 @@
 
 ---
 
+### 🤝 Soft Skills
+![Comunicación](https://img.shields.io/badge/-Comunicación%20Asertiva-34A853?style=flat-square)
+![Resolución de Problemas](https://img.shields.io/badge/-Resolución%20de%20Problemas-4285F4?style=flat-square)
+![Pensamiento Analítico](https://img.shields.io/badge/-Pensamiento%20Analítico-EA4335?style=flat-square)
+![Trabajo en Equipo](https://img.shields.io/badge/-Trabajo%20en%20Equipo-FBBC05?style=flat-square)
+
+---
+
 ### 📊 Actividad y Análisis
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresJaiTeGang&theme=react-dark&bg_color=0D1117&color=4285F4&line=4285F4&point=ffffff&hide_border=true" width="100%" />
