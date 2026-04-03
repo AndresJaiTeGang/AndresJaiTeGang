@@ -44,6 +44,20 @@
   <img src="https://img.shields.io/badge/google%20analytics-%23E37400.svg?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </p>
 
+**Design & Creativity**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+**Development methodologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/SCRUM-%236BA539.svg?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Agile-%230052CC.svg?style=for-the-badge&logo=atlassian&logoColor=white" alt="Agile" />
+</p>
+
 ---
 
 ### 🏆 Certificaciones
