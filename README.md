@@ -9,7 +9,8 @@
 ### 👨‍💻 Sobre mí
 - 🔭 Actualmente trabajando en proyectos basados en **Java** y entornos **Web**.
 - 🌱 Aprendiendo constantemente sobre arquitectura de software y nuevas librerías de **Frontend**.
-- 💬 Pregúntame sobre **Java, HTML/CSS** o diseño en **Adobe Suite**.
+- 📈 Me apasiona el **Marketing Digital** y cómo la tecnología puede optimizar las ventas online.
+- 💬 Pregúntame sobre **Java, HTML/CSS**, estrategias de **comercio electrónico** o diseño en **Adobe Suite**.
 
 ---
 
@@ -38,6 +39,12 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+**Marketing & E-commerce**
+<p align="left">
+  <img src="https://img.shields.io/badge/E--Commerce-%23323330.svg?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-%2300599C.svg?style=for-the-badge&logo=google-ads&logoColor=white" />
 </p>
 
 ---
