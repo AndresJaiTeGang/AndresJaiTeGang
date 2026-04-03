@@ -69,7 +69,7 @@
 
 ---
 
-### 🤝 Soft Skills
+### 🤝 Habilidades blandas
 ![Comunicación](https://img.shields.io/badge/-Comunicación%20Asertiva-34A853?style=flat-square)
 ![Resolución de Problemas](https://img.shields.io/badge/-Resolución%20de%20Problemas-4285F4?style=flat-square)
 ![Pensamiento Analítico](https://img.shields.io/badge/-Pensamiento%20Analítico-EA4335?style=flat-square)
