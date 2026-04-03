@@ -11,6 +11,7 @@
 - 🌱 Aprendiendo constantemente sobre arquitectura de software y nuevas librerías de **Frontend**.
 - 📈 Me apasiona el **Marketing Digital** y cómo la tecnología puede optimizar las ventas online.
 - 💬 Pregúntame sobre **Java, HTML/CSS**, estrategias de **comercio electrónico** o diseño en **Adobe Suite**.
+- ☁️ **Certificado en Google Cloud Computing Foundations**, con enfoque en soluciones escalables.
 
 ---
 
@@ -45,6 +46,13 @@
 <p align="left">
   <img src="https://img.shields.io/badge/E--Commerce-%23323330.svg?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/Digital%20Marketing-%2300599C.svg?style=for-the-badge&logo=google-ads&logoColor=white" />
+</p>
+
+### 🏆 Certificaciones
+<p align="left">
+  <a href="https://www.credly.com/badges/4dab0c53-1ff7-445a-b077-c08c4286a65f/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud_Computing-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Certified">
+  </a>
 </p>
 
 ---
