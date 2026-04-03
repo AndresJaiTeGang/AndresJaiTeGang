@@ -46,6 +46,12 @@
 
 ---
 
+### 🌐 Idiomas
+- **Español:** Nativo
+- **Inglés:** Nivel B2 (Intermedio Alto) ![Inglés](https://img.shields.io/badge/B2-Blue?style=flat-square)
+
+---
+
 ### 🏆 Certificaciones
 <p align="left">
   <a href="https://www.credly.com/badges/4dab0c53-1ff7-445a-b077-c08c4286a65f/public_url" target="_blank">
