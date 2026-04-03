@@ -1,17 +1,19 @@
-# ## Hi there 👋 I'm Andres
+# <p align="center">![Banner](https://capsule-render.vercel.app/render?type=wave&color=4285F4&height=200&section=header&text=Andres%20Jai%20Te%20Gang&fontSize=70&animation=fadeIn&fontAlignY=40)</p>
+
+## Hi there 👋 I'm Andres
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresJaiTeGang&show_icons=true&theme=radical&hide_border=true" alt="Andres GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresJaiTeGang&show_icons=true&theme=transparent&count_private=true&title_color=4285F4&text_color=ffffff&icon_color=4285F4&hide_border=true" alt="Stats de Andres" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mí
 - 🔭 Actualmente trabajando en proyectos basados en **Java** y entornos **Web**.
-- 🌱 Aprendiendo constantemente sobre arquitectura de software y nuevas librerías de **Frontend**.
-- 📈 Me apasiona el **Marketing Digital** y cómo la tecnología puede optimizar las ventas online.
-- 💬 Pregúntame sobre **Java, HTML/CSS**, estrategias de **comercio electrónico** o diseño en **Adobe Suite**.
-- ☁️ **Certificado en Google Cloud Computing Foundations**, con enfoque en soluciones escalables.
+- 🌱 Especializándome en la intersección entre el **Desarrollo Web y el E-commerce**.
+- ☁️ **Google Cloud Certified**: Enfocado en soluciones escalables y computación en la nube.
+- 📈 Me apasiona el **Marketing Digital** y la optimización de ventas online.
+- 📫 Cómo contactarme: [Tu Enlace Aquí]
 
 ---
 
@@ -20,7 +22,7 @@
 **Frontend & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) " />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/primefaces-%232196F3.svg?style=for-the-badge&logo=primefaces&logoColor=white" />
 </p>
@@ -31,22 +33,16 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_NetBeans-FF8113?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCRUM-%236BA539.svg?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </p>
 
-**Diseño Creativo**
-<p align="left">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
-
-**Marketing & E-commerce**
+**Marketing & Business**
 <p align="left">
   <img src="https://img.shields.io/badge/E--Commerce-%23323330.svg?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/Digital%20Marketing-%2300599C.svg?style=for-the-badge&logo=google-ads&logoColor=white" />
+  <img src="https://img.shields.io/badge/google%20analytics-%23E37400.svg?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </p>
+
+---
 
 ### 🏆 Certificaciones
 <p align="left">
@@ -57,11 +53,11 @@
 
 ---
 
-### 📊 Estadísticas de Lenguajes
+### 📊 Actividad y Análisis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresJaiTeGang&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresJaiTeGang&theme=react-dark&bg_color=0D1117&color=4285F4&line=4285F4&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://atlas-content-cdn.microsoft.com/0/6a0d24c0-6d33-40f4-8395-5f8484e557b4.gif" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresJaiTeGang&layout=compact&theme=transparent&title_color=4285F4&text_color=ffffff&count_private=true&hide_border=true" />
 </p>
