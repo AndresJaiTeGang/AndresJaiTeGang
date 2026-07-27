@@ -4,10 +4,6 @@
 
 ## Hi there 👋 I'm Andres
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresJaiTeGang&show_icons=true&theme=transparent&count_private=true&title_color=4285F4&text_color=ffffff&icon_color=4285F4&hide_border=true" alt="Stats de Andres" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mí
